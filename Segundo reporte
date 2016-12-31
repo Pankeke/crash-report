@@ -1,0 +1,19 @@
+31.12 00:00:36 [Multicraft] Loading server properties
+31.12 00:00:36 [Multicraft] Starting server!
+31.12 00:00:36 [Multicraft] Loaded config for "Spigot 1.8.8"
+31.12 00:00:36 [Server] INFO OpenJDK 64-Bit Server VM warning: Using incremental CMS is deprecated and will likely be removed in a future release
+31.12 00:00:36 [Server] INFO Loading libraries, please wait...
+31.12 00:00:51 [Server] INFO Failed to start the minecraft server
+31.12 00:00:51 [Server] INFO java.lang.NullPointerException
+31.12 00:00:51 [Server] INFO at com.google.common.base.Preconditions.checkNotNull(Preconditions.java:213) ~[spigot_1_8_8.jar:git-Spigot-fdc1440-53fac9f]
+31.12 00:00:51 [Server] INFO at com.google.common.collect.Lists$ReverseList.<init>(Lists.java:767) ~[spigot_1_8_8.jar:git-Spigot-fdc1440-53fac9f]
+31.12 00:00:51 [Server] INFO at com.google.common.collect.Lists.reverse(Lists.java:759) ~[spigot_1_8_8.jar:git-Spigot-fdc1440-53fac9f]
+31.12 00:00:51 [Server] INFO at net.minecraft.server.v1_8_R3.UserCache.b(UserCache.java:191) ~[spigot_1_8_8.jar:git-Spigot-fdc1440-53fac9f]
+31.12 00:00:51 [Server] INFO at net.minecraft.server.v1_8_R3.UserCache.<init>(UserCache.java:70) ~[spigot_1_8_8.jar:git-Spigot-fdc1440-53fac9f]
+31.12 00:00:51 [Server] INFO at net.minecraft.server.v1_8_R3.MinecraftServer.<init>(MinecraftServer.java:132) ~[spigot_1_8_8.jar:git-Spigot-fdc1440-53fac9f]
+31.12 00:00:51 [Server] INFO at net.minecraft.server.v1_8_R3.DedicatedServer.<init>(DedicatedServer.java:43) ~[spigot_1_8_8.jar:git-Spigot-fdc1440-53fac9f]
+31.12 00:00:51 [Server] INFO at net.minecraft.server.v1_8_R3.MinecraftServer.main(MinecraftServer.java:922) [spigot_1_8_8.jar:git-Spigot-fdc1440-53fac9f]
+31.12 00:00:51 [Server] INFO at org.bukkit.craftbukkit.Main.main(Main.java:193) [spigot_1_8_8.jar:git-Spigot-fdc1440-53fac9f]
+31.12 00:00:51 [Multicraft] Server shut down (starting)
+31.12 00:00:51 [Multicraft] Restarting crashed server in 5 seconds
+31.12 00:00:51 [Multicraft] Server stopped
